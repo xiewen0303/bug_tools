@@ -1,0 +1,12 @@
+SMAP
+_get_0user_0right__jsp.java
+JSP
+*S JSP
+*F
++ 1 get_user_right.jsp
+admin/user/get_user_right.jsp
+*L
+1#1:42
+14#1,35:43
+48#1:78
+*E

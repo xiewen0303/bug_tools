@@ -1,0 +1,16 @@
+SMAP
+_initstatisticparam__jsp.java
+JSP
+*S JSP
+*F
++ 1 initMain.function.jsp
+statistic/../filterManage/initMain.function.jsp
++ 2 initStatisticParam.jsp
+statistic/initStatisticParam.jsp
+*L
+26#1,1791:47
+1816#1:1838,19
+1#2:1856
+25#2,68:1857
+92#2:1925
+*E
